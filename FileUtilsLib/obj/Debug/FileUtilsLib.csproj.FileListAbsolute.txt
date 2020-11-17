@@ -1,0 +1,5 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/FileUtilsLib/bin/Debug/FileUtilsLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/FileUtilsLib/bin/Debug/FileUtilsLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/FileUtilsLib/obj/Debug/FileUtilsLib.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/FileUtilsLib/obj/Debug/FileUtilsLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/FileUtilsLib/obj/Debug/FileUtilsLib.pdb

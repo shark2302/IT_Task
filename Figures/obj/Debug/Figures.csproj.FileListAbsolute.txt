@@ -1,0 +1,5 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/Figures/bin/Debug/Figures.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Figures/bin/Debug/Figures.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Figures/obj/Debug/Figures.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Figures/obj/Debug/Figures.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Figures/obj/Debug/Figures.pdb

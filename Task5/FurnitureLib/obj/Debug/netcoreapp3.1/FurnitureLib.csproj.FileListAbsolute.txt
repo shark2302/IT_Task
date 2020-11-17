@@ -1,0 +1,8 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/bin/Debug/netcoreapp3.1/FurnitureLib.deps.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/bin/Debug/netcoreapp3.1/FurnitureLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/bin/Debug/netcoreapp3.1/FurnitureLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/obj/Debug/netcoreapp3.1/FurnitureLib.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/obj/Debug/netcoreapp3.1/FurnitureLib.AssemblyInfoInputs.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/obj/Debug/netcoreapp3.1/FurnitureLib.AssemblyInfo.cs
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/obj/Debug/netcoreapp3.1/FurnitureLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/FurnitureLib/obj/Debug/netcoreapp3.1/FurnitureLib.pdb

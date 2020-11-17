@@ -1,0 +1,11 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task.deps.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task.runtimeconfig.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task.runtimeconfig.dev.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/bin/Debug/netcoreapp3.1/IT_task.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/obj/Debug/netcoreapp3.1/IT_task.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/obj/Debug/netcoreapp3.1/IT_task.AssemblyInfoInputs.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/obj/Debug/netcoreapp3.1/IT_task.AssemblyInfo.cs
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/obj/Debug/netcoreapp3.1/IT_task.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/IT_task/obj/Debug/netcoreapp3.1/IT_task.pdb

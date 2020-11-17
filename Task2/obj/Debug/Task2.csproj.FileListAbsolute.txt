@@ -1,0 +1,8 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/bin/Debug/Task2.exe
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/bin/Debug/Task2.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/bin/Debug/FileUtilsLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/bin/Debug/FileUtilsLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/obj/Debug/Task2.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/obj/Debug/Task2.csproj.CopyComplete
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/obj/Debug/Task2.exe
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/obj/Debug/Task2.pdb

@@ -1,0 +1,5 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/MatrixVectorLib/bin/Debug/MatrixVectorLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/MatrixVectorLib/bin/Debug/MatrixVectorLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/MatrixVectorLib/obj/Debug/MatrixVectorLib.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/MatrixVectorLib/obj/Debug/MatrixVectorLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/MatrixVectorLib/obj/Debug/MatrixVectorLib.pdb

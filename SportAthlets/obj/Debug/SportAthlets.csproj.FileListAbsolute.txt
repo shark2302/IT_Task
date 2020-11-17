@@ -1,0 +1,5 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/SportAthlets/bin/Debug/SportAthlets.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/SportAthlets/bin/Debug/SportAthlets.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/SportAthlets/obj/Debug/SportAthlets.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/SportAthlets/obj/Debug/SportAthlets.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/SportAthlets/obj/Debug/SportAthlets.pdb

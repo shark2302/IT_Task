@@ -1,0 +1,14 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator.deps.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator.runtimeconfig.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator.runtimeconfig.dev.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/BinFileGenerator.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/FileUtilsLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/bin/Debug/netcoreapp3.1/FileUtilsLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.AssemblyInfoInputs.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.AssemblyInfo.cs
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.csproj.CopyComplete
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task2/BinFileGenerator/obj/Debug/netcoreapp3.1/BinFileGenerator.pdb

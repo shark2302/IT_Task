@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task4/1.0.0": {
+        "dependencies": {
+          "SportAthlets": "1.0.0"
+        },
+        "runtime": {
+          "Task4.dll": {}
+        }
+      },
+      "SportAthlets/1.0.0": {
+        "runtime": {
+          "SportAthlets.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportAthlets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5.deps.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5.runtimeconfig.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5.runtimeconfig.dev.json
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/Task5.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/FurnitureLib.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/bin/Debug/netcoreapp3.1/FurnitureLib.pdb
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.csprojAssemblyReference.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.AssemblyInfoInputs.cache
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.AssemblyInfo.cs
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.csproj.CopyComplete
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.dll
+/Users/evgenijkravcenko/RiderProjects/IT_task/Task5/Task5/obj/Debug/netcoreapp3.1/Task5.pdb
